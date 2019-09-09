@@ -1,0 +1,35 @@
+# Environment Configuration
+.env
+
+# Cache
+.cache
+
+# Dist
+dist
+
+# Build output folders
+build/
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Visual Studio Code
+.vscode
+
+# Flow Coverage Report
+flow-coverage/
+
+# MAC OS X file
+.DS_Store
+
+*.orig
+
+.editorconfig

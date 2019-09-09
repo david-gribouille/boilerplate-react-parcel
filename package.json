@@ -1,0 +1,18 @@
+{
+  "name": "boilerplate-react-parcel",
+  "version": "1.0.0",
+  "description": "A David Gribouille's simple boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/david-gribouille/boilerplate-react-parcel",
+  "author": "David Gribouille",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "sass": "^1.23.0-module.beta.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
